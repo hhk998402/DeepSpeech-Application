@@ -1,0 +1,227 @@
+INFO 2018-05-31 09:43:45,273 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-05-31 09:43:45,273 Using busy-loop synchronous mode on channel layer
+INFO 2018-05-31 09:43:45,274 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+WARNING 2018-05-31 09:43:52,821 Not Found: /favicon.ico
+DEBUG 2018-05-31 09:44:25,286 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-05-31_094425
+INFO 2018-05-31 09:44:25,289 Inside deepspeech.stt function
+INFO 2018-05-31 09:44:25,290 Starting transcribing...
+INFO 2018-05-31 09:44:25,300 Audio transcribed.
+INFO 2018-05-31 09:46:14,962 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-05-31 09:46:14,962 Using busy-loop synchronous mode on channel layer
+INFO 2018-05-31 09:46:14,962 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+DEBUG 2018-05-31 09:46:43,083 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-05-31_094643
+INFO 2018-05-31 09:46:43,085 Inside deepspeech.stt function
+INFO 2018-05-31 09:46:43,085 Starting transcribing...
+INFO 2018-05-31 09:46:43,099 Audio transcribed.
+INFO 2018-05-31 09:48:09,251 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-05-31 09:48:09,251 Using busy-loop synchronous mode on channel layer
+INFO 2018-05-31 09:48:09,252 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+DEBUG 2018-05-31 09:48:30,699 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-05-31_094830
+INFO 2018-05-31 09:48:30,701 Inside deepspeech.stt function
+INFO 2018-05-31 09:48:30,702 Starting transcribing...
+INFO 2018-05-31 09:49:10,528 Audio transcribed.
+DEBUG 2018-05-31 09:49:40,437 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-05-31_094940
+INFO 2018-05-31 09:49:40,438 Inside deepspeech.stt function
+INFO 2018-05-31 09:49:40,439 Starting transcribing...
+INFO 2018-05-31 09:49:50,553 Audio transcribed.
+DEBUG 2018-05-31 09:57:15,340 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-05-31_095715
+INFO 2018-05-31 09:57:15,342 Inside deepspeech.stt function
+INFO 2018-05-31 09:57:15,343 Starting transcribing...
+INFO 2018-05-31 09:57:23,903 Audio transcribed.
+DEBUG 2018-05-31 09:57:36,645 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-05-31_095736
+INFO 2018-05-31 09:57:36,646 Inside deepspeech.stt function
+INFO 2018-05-31 09:57:36,647 Starting transcribing...
+INFO 2018-05-31 09:57:49,112 Audio transcribed.
+DEBUG 2018-05-31 09:58:04,586 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-05-31_095804
+INFO 2018-05-31 09:58:04,587 Inside deepspeech.stt function
+INFO 2018-05-31 09:58:04,588 Starting transcribing...
+INFO 2018-05-31 09:58:17,190 Audio transcribed.
+INFO 2018-06-01 10:46:55,087 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-06-01 10:46:55,088 Using busy-loop synchronous mode on channel layer
+INFO 2018-06-01 10:46:55,088 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+DEBUG 2018-06-01 10:47:30,371 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-01_104730
+INFO 2018-06-01 10:47:30,378 Inside deepspeech.stt function
+INFO 2018-06-01 10:47:30,379 Starting transcribing...
+INFO 2018-06-01 10:47:54,900 Audio transcribed.
+DEBUG 2018-06-01 11:00:50,481 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-01_110050
+INFO 2018-06-01 11:00:50,481 Inside deepspeech.stt function
+INFO 2018-06-01 11:00:50,482 Starting transcribing...
+INFO 2018-06-01 11:00:57,989 Audio transcribed.
+DEBUG 2018-06-01 11:01:43,739 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-01_110143
+INFO 2018-06-01 11:01:43,739 Inside deepspeech.stt function
+INFO 2018-06-01 11:01:43,739 Starting transcribing...
+INFO 2018-06-01 11:01:51,126 Audio transcribed.
+DEBUG 2018-06-01 11:02:37,915 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-01_110237
+INFO 2018-06-01 11:02:37,918 Inside deepspeech.stt function
+INFO 2018-06-01 11:02:37,919 Starting transcribing...
+INFO 2018-06-01 11:02:44,415 Audio transcribed.
+INFO 2018-06-01 12:55:38,425 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-06-01 12:55:38,426 Using busy-loop synchronous mode on channel layer
+INFO 2018-06-01 12:55:38,426 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+INFO 2018-06-04 06:58:35,931 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-06-04 06:58:35,932 Using busy-loop synchronous mode on channel layer
+INFO 2018-06-04 06:58:35,932 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+INFO 2018-06-04 11:25:32,966 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-06-04 11:25:32,966 Using busy-loop synchronous mode on channel layer
+INFO 2018-06-04 11:25:32,967 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+DEBUG 2018-06-04 11:26:11,644 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-04_112611
+INFO 2018-06-04 11:26:11,644 Inside deepspeech.stt function
+INFO 2018-06-04 11:26:11,646 Starting transcribing...
+INFO 2018-06-04 11:26:40,212 Audio transcribed.
+INFO 2018-06-05 16:50:57,279 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-06-05 16:50:57,280 Using busy-loop synchronous mode on channel layer
+INFO 2018-06-05 16:50:57,280 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+DEBUG 2018-06-05 16:51:15,534 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_165115
+INFO 2018-06-05 16:51:15,535 Inside deepspeech.stt function
+INFO 2018-06-05 16:51:15,536 Starting transcribing...
+INFO 2018-06-05 16:51:39,288 Audio transcribed.
+DEBUG 2018-06-05 17:02:55,985 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_170255
+INFO 2018-06-05 17:02:55,989 Inside deepspeech.stt function
+DEBUG 2018-06-05 18:06:48,858 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_180648
+INFO 2018-06-05 18:06:48,860 Inside deepspeech.stt function
+INFO 2018-06-05 18:06:48,864 Starting transcribing...
+INFO 2018-06-05 18:07:07,319 Audio transcribed.
+DEBUG 2018-06-05 18:09:17,357 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_180917
+INFO 2018-06-05 18:09:17,358 Inside deepspeech.stt function
+INFO 2018-06-05 18:09:17,359 Starting transcribing...
+INFO 2018-06-05 18:09:26,346 Audio transcribed.
+DEBUG 2018-06-05 18:09:55,146 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_180955
+INFO 2018-06-05 18:09:55,147 Inside deepspeech.stt function
+INFO 2018-06-05 18:09:55,147 Starting transcribing...
+INFO 2018-06-05 18:10:05,824 Audio transcribed.
+DEBUG 2018-06-05 18:10:38,642 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_181038
+INFO 2018-06-05 18:10:38,644 Inside deepspeech.stt function
+INFO 2018-06-05 18:10:38,645 Starting transcribing...
+INFO 2018-06-05 18:10:51,719 Audio transcribed.
+DEBUG 2018-06-05 18:11:13,838 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_181113
+INFO 2018-06-05 18:11:13,839 Inside deepspeech.stt function
+INFO 2018-06-05 18:11:13,839 Starting transcribing...
+INFO 2018-06-05 18:11:27,313 Audio transcribed.
+DEBUG 2018-06-05 18:15:17,260 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_181517
+INFO 2018-06-05 18:15:17,261 Inside deepspeech.stt function
+DEBUG 2018-06-05 18:16:45,347 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_181645
+INFO 2018-06-05 18:16:45,349 Inside deepspeech.stt function
+INFO 2018-06-05 18:16:45,350 Starting transcribing...
+INFO 2018-06-05 18:16:52,438 Audio transcribed.
+DEBUG 2018-06-05 18:17:08,878 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_181708
+INFO 2018-06-05 18:17:08,879 Inside deepspeech.stt function
+INFO 2018-06-05 18:17:08,880 Starting transcribing...
+INFO 2018-06-05 18:17:14,176 Audio transcribed.
+DEBUG 2018-06-05 18:17:24,688 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_181724
+INFO 2018-06-05 18:17:24,689 Inside deepspeech.stt function
+INFO 2018-06-05 18:17:24,690 Starting transcribing...
+INFO 2018-06-05 18:17:31,073 Audio transcribed.
+DEBUG 2018-06-05 18:20:58,655 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_182058
+INFO 2018-06-05 18:20:58,656 Inside deepspeech.stt function
+DEBUG 2018-06-05 18:21:13,637 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_182113
+INFO 2018-06-05 18:21:13,638 Inside deepspeech.stt function
+INFO 2018-06-05 18:21:13,638 Starting transcribing...
+INFO 2018-06-05 18:21:20,873 Audio transcribed.
+DEBUG 2018-06-05 18:21:40,742 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_182140
+INFO 2018-06-05 18:21:40,742 Inside deepspeech.stt function
+INFO 2018-06-05 18:21:40,743 Starting transcribing...
+INFO 2018-06-05 18:21:48,362 Audio transcribed.
+DEBUG 2018-06-05 18:22:19,019 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_182219
+INFO 2018-06-05 18:22:19,021 Inside deepspeech.stt function
+INFO 2018-06-05 18:22:19,022 Starting transcribing...
+INFO 2018-06-05 18:22:23,339 Audio transcribed.
+DEBUG 2018-06-05 18:22:41,415 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_182241
+INFO 2018-06-05 18:22:41,416 Inside deepspeech.stt function
+INFO 2018-06-05 18:22:41,417 Starting transcribing...
+INFO 2018-06-05 18:22:48,873 Audio transcribed.
+DEBUG 2018-06-05 18:23:14,543 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-05_182314
+INFO 2018-06-05 18:23:14,544 Inside deepspeech.stt function
+INFO 2018-06-05 18:23:14,545 Starting transcribing...
+INFO 2018-06-05 18:23:22,065 Audio transcribed.
+INFO 2018-06-06 09:25:52,358 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-06-06 09:25:52,359 Using busy-loop synchronous mode on channel layer
+INFO 2018-06-06 09:25:52,359 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+INFO 2018-06-06 09:34:03,315 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-06-06 09:34:03,315 Using busy-loop synchronous mode on channel layer
+INFO 2018-06-06 09:34:03,315 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+INFO 2018-06-06 09:48:52,816 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-06-06 09:48:52,817 Using busy-loop synchronous mode on channel layer
+INFO 2018-06-06 09:48:52,817 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+INFO 2018-06-06 09:49:37,379 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-06-06 09:49:37,380 Using busy-loop synchronous mode on channel layer
+INFO 2018-06-06 09:49:37,380 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+WARNING 2018-06-06 09:50:43,558 Not Found: /favicon.ico
+DEBUG 2018-06-06 10:01:18,810 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-06_100118
+INFO 2018-06-06 10:01:18,812 Inside deepspeech.stt function
+INFO 2018-06-06 10:01:18,814 Starting transcribing...
+INFO 2018-06-06 10:01:44,829 Audio transcribed.
+INFO 2018-06-06 10:48:46,433 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-06-06 10:48:46,433 Using busy-loop synchronous mode on channel layer
+INFO 2018-06-06 10:48:46,433 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+DEBUG 2018-06-06 10:49:00,335 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-06_104900
+INFO 2018-06-06 10:49:00,336 Inside deepspeech.stt function
+DEBUG 2018-06-06 10:50:00,083 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-06_105000
+INFO 2018-06-06 10:50:00,084 Inside deepspeech.stt function
+INFO 2018-06-06 10:50:00,085 Starting transcribing...
+INFO 2018-06-06 10:50:25,610 Audio transcribed.
+INFO 2018-06-06 12:16:37,441 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-06-06 12:16:37,442 Using busy-loop synchronous mode on channel layer
+INFO 2018-06-06 12:16:37,442 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+WARNING 2018-06-06 12:26:07,542 Not Found: /favicon.ico
+DEBUG 2018-06-06 12:42:35,310 file name: /Users/hemanthkumar/django-deepspeech-server/audio_fileshttp_generated_18-06-06_124235
+INFO 2018-06-06 12:42:35,312 Inside deepspeech.stt function
+INFO 2018-06-06 12:42:35,313 Starting transcribing...
+INFO 2018-06-06 12:42:56,951 Audio transcribed.
+INFO 2018-06-28 10:02:45,272 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-06-28 10:02:45,272 Using busy-loop synchronous mode on channel layer
+INFO 2018-06-28 10:02:45,272 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+WARNING 2018-06-28 10:02:57,233 Not Found: /favicon.ico
+DEBUG 2018-06-28 10:03:24,414 file name: /Users/hemanthkumar/hemant-deepspeech/audio_fileshttp_generated_18-06-28_100324
+ERROR 2018-06-28 10:03:24,415 exception occurred in handle_audio: [Errno 28] No space left on device: '/Users/hemanthkumar/hemant-deepspeech/audio_fileshttp_generated_18-06-28_100324'
+INFO 2018-06-28 10:09:39,184 HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+INFO 2018-06-28 10:09:39,184 Using busy-loop synchronous mode on channel layer
+INFO 2018-06-28 10:09:39,184 Listening on endpoint tcp:port=8000:interface=127.0.0.1
+WARNING 2018-06-28 10:09:48,186 Not Found: /favicon.ico
+DEBUG 2018-06-28 10:09:56,191 file name: /Users/hemanthkumar/hemant-deepspeech/audio_fileshttp_generated_18-06-28_100956
+INFO 2018-06-28 10:09:56,193 Inside deepspeech.stt function
+INFO 2018-06-28 10:09:56,194 Starting transcribing...
+INFO 2018-06-28 10:10:18,741 Audio transcribed.
+DEBUG 2018-06-28 10:11:23,109 file name: /Users/hemanthkumar/hemant-deepspeech/audio_fileshttp_generated_18-06-28_101123
+INFO 2018-06-28 10:11:23,110 Inside deepspeech.stt function
+INFO 2018-06-28 10:11:23,113 Starting transcribing...
+INFO 2018-06-28 10:11:37,258 Audio transcribed.
+DEBUG 2018-06-28 10:11:46,412 file name: /Users/hemanthkumar/hemant-deepspeech/audio_fileshttp_generated_18-06-28_101146
+INFO 2018-06-28 10:11:46,413 Inside deepspeech.stt function
+INFO 2018-06-28 10:11:46,418 Starting transcribing...
+INFO 2018-06-28 10:11:53,381 Audio transcribed.
+DEBUG 2018-06-28 10:12:08,353 file name: /Users/hemanthkumar/hemant-deepspeech/audio_fileshttp_generated_18-06-28_101208
+INFO 2018-06-28 10:12:08,354 Inside deepspeech.stt function
+INFO 2018-06-28 10:12:08,355 Starting transcribing...
+INFO 2018-06-28 10:12:13,636 Audio transcribed.
+DEBUG 2018-06-28 10:13:20,810 file name: /Users/hemanthkumar/hemant-deepspeech/audio_fileshttp_generated_18-06-28_101320
+INFO 2018-06-28 10:13:20,812 Inside deepspeech.stt function
+INFO 2018-06-28 10:13:20,812 Starting transcribing...
+INFO 2018-06-28 10:13:27,540 Audio transcribed.
+DEBUG 2018-06-28 10:13:48,500 file name: /Users/hemanthkumar/hemant-deepspeech/audio_fileshttp_generated_18-06-28_101348
+INFO 2018-06-28 10:13:48,501 Inside deepspeech.stt function
+INFO 2018-06-28 10:13:48,502 Starting transcribing...
+INFO 2018-06-28 10:13:52,774 Audio transcribed.
+DEBUG 2018-06-28 10:13:59,978 file name: /Users/hemanthkumar/hemant-deepspeech/audio_fileshttp_generated_18-06-28_101359
+INFO 2018-06-28 10:13:59,982 Inside deepspeech.stt function
+INFO 2018-06-28 10:13:59,983 Starting transcribing...
+INFO 2018-06-28 10:14:05,423 Audio transcribed.
+DEBUG 2018-06-28 10:14:11,137 file name: /Users/hemanthkumar/hemant-deepspeech/audio_fileshttp_generated_18-06-28_101411
+INFO 2018-06-28 10:14:11,138 Inside deepspeech.stt function
+INFO 2018-06-28 10:14:11,138 Starting transcribing...
+INFO 2018-06-28 10:14:17,102 Audio transcribed.
+DEBUG 2018-06-28 10:43:30,997 file name: /Users/hemanthkumar/hemant-deepspeech/audio_fileshttp_generated_18-06-28_104330
+INFO 2018-06-28 10:43:30,999 Inside deepspeech.stt function
+INFO 2018-06-28 10:43:30,999 Starting transcribing...
+INFO 2018-06-28 10:43:35,892 Audio transcribed.
+DEBUG 2018-06-28 10:44:19,717 file name: /Users/hemanthkumar/hemant-deepspeech/audio_fileshttp_generated_18-06-28_104419
+INFO 2018-06-28 10:44:19,717 Inside deepspeech.stt function
+INFO 2018-06-28 10:44:19,718 Starting transcribing...
+INFO 2018-06-28 10:44:25,941 Audio transcribed.
+DEBUG 2018-06-28 10:44:47,380 file name: /Users/hemanthkumar/hemant-deepspeech/audio_fileshttp_generated_18-06-28_104447
+INFO 2018-06-28 10:44:47,381 Inside deepspeech.stt function
+INFO 2018-06-28 10:44:47,381 Starting transcribing...
+INFO 2018-06-28 10:44:59,224 Audio transcribed.
+DEBUG 2018-06-28 10:45:33,797 file name: /Users/hemanthkumar/hemant-deepspeech/audio_fileshttp_generated_18-06-28_104533
+INFO 2018-06-28 10:45:33,798 Inside deepspeech.stt function
+INFO 2018-06-28 10:45:33,799 Starting transcribing...
+INFO 2018-06-28 10:45:38,112 Audio transcribed.
